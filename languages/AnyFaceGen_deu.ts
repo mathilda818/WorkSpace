@@ -28,7 +28,7 @@
         <location filename="../dialogfacegen.ui" line="286"/>
         <location filename="../dialogfacegen.ui" line="377"/>
         <source>选择</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../dialogfacegen.ui" line="155"/>
